@@ -8,3 +8,6 @@
   * Parámetro: qwerty: Parameter 'qwerty' is not a valid RegularShapeType
   * Parámetro: pentagon: Parameter 'pentagon' is not a valid RegularShapeType
   * Parámetro Hexagon: Successfully created a Hexagon with 6 sides.
+
+## gitignore
+  
